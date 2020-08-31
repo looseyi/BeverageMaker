@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'beveragemaker'
+  
+BeverageMaker::Command.run(ARGV)

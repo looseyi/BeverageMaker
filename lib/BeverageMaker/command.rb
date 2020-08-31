@@ -1,0 +1,1 @@
+require 'beveragemaker/command/maker'
